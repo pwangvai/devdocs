@@ -1,4 +1,4 @@
-# Guide to create Test and live build schemes in Xcode  
+# Guide to create test and live build schemes in Xcode  
 
 ## Target
 Change target name to your schema name
